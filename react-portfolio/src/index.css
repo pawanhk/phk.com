@@ -5,9 +5,9 @@ html{
 
 body{
   margin: 0;
-  font-family: 300 11px/1.4 "Roboto Condensed", serif;
-  color: #E0FBFC;
-  background-color: #264653;
+  font: 300 11px/1.4 "Roboto Condensed", serif;
+  color: #CDD7D6;
+  background-color: #CDD7D6;
   overflow: hidden;
   display: block;
   -webkit-font-smoothing: antialiased;
